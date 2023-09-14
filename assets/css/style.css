@@ -1533,3 +1533,7 @@ section {
 .whatsapp-icon {
   margin-top: 13px;
 }
+
+.bigger-txt {
+  font-weight: bold;
+}
